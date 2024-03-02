@@ -28,4 +28,4 @@ jobs:
       run: go test -v ./...
     
     - name: Force Failure
-      run: (exit 1)
+      run: go version
