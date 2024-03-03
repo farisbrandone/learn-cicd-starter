@@ -28,8 +28,8 @@ jobs:
 
 
 
-  checks:
-      name: Checks
+  style:
+      name: Style
       runs-on: ubuntu-latest
         
       steps:
