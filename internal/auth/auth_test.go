@@ -43,7 +43,7 @@ func TestMytest(t *testing.T) {
 		{
 			input: Header3,
 			expected: TypeOutput{
-				value: "$dedfvggvbbgtfc",
+				value: "$dedfvggvbbgtfcd",
 				err:   nil,
 			},
 		},
